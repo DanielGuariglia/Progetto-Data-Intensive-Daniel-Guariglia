@@ -1,4 +1,4 @@
-#Progetto Programmazione di applicazioni Data Intensive
+# Progetto Programmazione di applicazioni Data Intensive
 
 Autore: Daniel Guariglia
 
